@@ -12,3 +12,5 @@
  `endingY` - The ending Y location.  
  `show/hide` - The word "show" or "hide", which means whether or not you want to show the maze being solved in real time. (Optional)  
  `saveFilename` - The file name to save the solved maze in. (Optional)  
+
+ In the example maze provided in `maze.txt`, the starting coordinates are (1,0), and the ending coordinates are (7,8).
