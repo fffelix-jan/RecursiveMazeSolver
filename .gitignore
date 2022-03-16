@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 # Binary directories
-/bin
-/obj
+bin/
+obj/
