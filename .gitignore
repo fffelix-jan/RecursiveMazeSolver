@@ -54,3 +54,8 @@ dkms.conf
 # Binary directories
 bin
 obj
+
+# Other CodeBlocks junk
+*.cscope_file_list
+*.depend
+*.layout
