@@ -1,7 +1,7 @@
 /**
  * Recursive Maze Solver
  * Copyright (c) 2022 Felix An
- * https://www.felixan.tk/
+ * https://www.felixan.ca/
  * Licensed under the MIT License: https://opensource.org/licenses/MIT
  */
 
@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 {
     puts("Recursive Maze Solver");
     puts("Copyright (c) 2022 Felix An");
-    puts("https://www.felixan.tk/");
+    puts("https://www.felixan.ca/");
     puts("Licensed under the MIT License: https://opensource.org/licenses/MIT\n");
     printf("Wall character: '%c'\n", WALL_CHAR);
     printf("Air character: '%c'\n", AIR_CHAR);
