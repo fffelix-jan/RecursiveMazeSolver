@@ -6,7 +6,7 @@
  * @param x The x-coordinate.
  * @param y The y-coordinate.
  */
-typedef struct
+typedef struct Coordinate
 {
     int x;
     int y;

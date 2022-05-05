@@ -34,8 +34,14 @@
 		<Unit filename="Coordinate.h" />
 		<Unit filename="Maze.h" />
 		<Unit filename="MazeCharacter.h" />
+		<Unit filename="MazeImport.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="MazeImport.h" />
 		<Unit filename="MazeLimit.h" />
+		<Unit filename="MazeSolver.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="MazeSolver.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />

@@ -7,7 +7,7 @@
 /**
  * A struct that stores information about a maze.
  */
-typedef struct
+typedef struct Maze
 {
     char mazeArray[MAZE_LIMIT_Y][MAZE_LIMIT_X];
     int ySize;
